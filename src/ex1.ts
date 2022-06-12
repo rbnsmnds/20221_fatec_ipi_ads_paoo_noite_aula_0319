@@ -22,4 +22,3 @@ const alunos: Aluno[] = [cria_aluno("Joao", 9),
                          cria_aluno("Joana", 6)];
 
 console.log(media(alunos));
-
